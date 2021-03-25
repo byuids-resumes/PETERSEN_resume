@@ -72,8 +72,8 @@ __Pinnacle Management Group__,
 __Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2019`
+__Service Missionary__, Piura, Peru - South America
 
 
 
