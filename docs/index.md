@@ -6,8 +6,8 @@ title: Bryton Petersen's Resume
 Computer Science major from Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="brytonpetersen@protonmail.com">brytonpetersen@protonmail.com</a>
+| <a href=>(970)***-****</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
@@ -36,35 +36,34 @@ __Pacific Northwest National Lab__, Richland, WA
 ### Software Engineering
 
 `January 2021 - April 2021`
-__Indie Game Creator__, Python Team Lead
+__Indie Game Designer__, Python Team Lead
 
 - Set goals and made plans to help a team of aspiring software engineers learn how to use classes and methods in Python
 - Used GitHub and the pygame and arcade python libraries
-- Created a well organized, functional game 
+- Created a well organized, functional run, dodge and jump game 
 - Purpose, tools, rewards -- every project should have the same format - make it SUPER easy to read and navigate
 
 `August 2020 - December 2020`
-__Website Design__, 
+__Website Designer__, 
 
 - Created a functional website for a fictional touring company
 - Utilized HTML and CSS
 - Created a 
 
-### Data Science Consulting Team
+__Data-Scraping__,
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Private project to data-scrape online shopping websites
+- Used Python and the BeautifulSoup/ Selenium libraries
+- Created a program that runs in the background to alert you of flash deals regarding products marked as 'interested' by the user
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+### Data Science
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+`January 2021 - April 2021`
+__Machine Learning__
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- A program used to determine which homes in a given area may still utilize asbestos
+- Created using python and SciKit-learn, as well as Altair for charting
+- Obtained an accuracy of 92% in predicting the era in which homes were built
 
 
 ## Work History
@@ -73,7 +72,7 @@ __Pinnacle Management Group__,
 __Turf Management__, Harmony Golf Club
 
 `2017-2019`
-__Service Missionary__, Piura, Peru - South America
+__Service Missionary__, Piura, Peru
 
 `2019-2021`
 __Delivery Driver__, DoorDash
