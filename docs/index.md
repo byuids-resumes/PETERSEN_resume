@@ -3,10 +3,10 @@ layout: cv
 title: Bryton Petersen's Resume
 ---
 # Bryton Petersen
-Computer Science major from Brigham Young University - Idaho
+Bachelors of Computer Science - Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="brytonpetersen@protonmail.com">brytonpetersen@protonmail.com</a>
+<a href="***********@protonmail.com">*********@protonmail.com</a>
 | <a href=>(970)***-****</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
