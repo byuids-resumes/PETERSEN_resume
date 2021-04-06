@@ -1,7 +1,3 @@
----
-layout: cv
-title: Bryton Petersen's Resume
----
 # Bryton Petersen
 Bachelors of Computer Science - Brigham Young University - Idaho
 
