@@ -19,7 +19,7 @@ __Brigham Young University - Idaho__, Bachelors in Computer Science
 ### Software Engineering Experience
 
 `January 2021 - April 2021`
-__Indie Game Designer__, Python - Team Lead
+__Indie Game Designer__, Python 
 
 - Set goals and made plans to help a team of aspiring software engineers learn how to use classes and methods in Python
 - Used GitHub and the pygame and arcade python libraries
@@ -27,14 +27,14 @@ __Indie Game Designer__, Python - Team Lead
 - Purpose, tools, rewards -- every project should have the same format - make it SUPER easy to read and navigate
 
 `August 2020 - December 2020`
-__Website Designer__,
+__Website Designer__, HTML & CSS
 
 - Created a functional website for a fictional touring company
 - Utilized HTML and CSS
 - Created a functional, aesthetically pleasing website. 
 
 `January 2021 - April 2021`
-__Data-Scraping__,
+__Data-Scraping__, Python
 
 - Private project to data-scrape on-line shopping websites
 - Used Python and the BeautifulSoup / Selenium libraries
@@ -43,13 +43,13 @@ __Data-Scraping__,
 ### Data Science
 
 `January 2021 - April 2021`
-__Machine Learning for Asbestos__
+__Machine Learning for Asbestos__ Python
 
 - A program used to determine which homes in a given area may still utilize asbestos
 - Created using python and SciKit-learn, as well as Altair for charting
 - Obtained an accuracy of 92% in predicting the era in which homes were built
 
-__Machine Learning for heart disease and stroke risk calculator__
+__Machine Learning for heart disease and stroke risk calculator__ Python
 
 - Personal project - Used to display a graph that display the users risk percentage by age
 - Utilized SciKit-learn and SciKit - plot for charting
